@@ -2,6 +2,14 @@
 
 Variable template pour Google Tag Manager Server-Side permettant de manipuler et transformer des données facilement.
 
+⚠️ **AVERTISSEMENT** ⚠️
+
+Bien que ce template ait été rigoureusement testé, le nombre de combinaisons possibles entre les types de données, les conditions et les transformations est considérable. Il est de votre responsabilité de :
+- Tester exhaustivement le template avec VOS données
+- Vérifier chaque cas d'utilisation spécifique à votre configuration
+- Valider le comportement dans un environnement de préproduction
+- Ne pas déployer en production sans tests préalables approfondis
+
 ## Fonctionnalités
 
 ### Mode Simple
